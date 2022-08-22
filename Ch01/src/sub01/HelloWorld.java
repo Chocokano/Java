@@ -5,7 +5,7 @@ package sub01;
  * 이름 : 최아영
  * 내용 : Java 개발환경 구축 실습
  */
-public class HelloWord {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		//기본출력
