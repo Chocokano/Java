@@ -53,7 +53,7 @@ public class MethodTest {
 		for(int k=start; k<=end; k++)
 			total += k;
 		
-		return total;
+		   return total;
 	}
 
 }
