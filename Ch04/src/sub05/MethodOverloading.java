@@ -26,10 +26,12 @@ public class MethodOverloading {
 	} //main end 
 	public static int plus(int a, int b) {
 		return  a+b;
+		
 	}
 	public static int plus(int a, int b, int c) {
 		return a+b+c;
 	}
+	
 	public static double plus(double a, double b) {
 		return a+b;
 	}

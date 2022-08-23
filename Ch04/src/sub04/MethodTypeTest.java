@@ -59,7 +59,6 @@ public class MethodTypeTest {
 
 	// type4 : 매개변수 X, 리턴값 X
 	public static void type4() {
-		
 		System.out.println("type4 result : "+type1(1.2));
 
 	}
