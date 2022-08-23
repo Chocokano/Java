@@ -42,6 +42,8 @@ public class MethodTypeTest {
 			System.out.println("참 입니다.");
 		}else {
 			System.out.println("거짓 입니다.");
+			
+			
 		}
 	}
 
