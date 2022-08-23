@@ -12,17 +12,17 @@ package sub05;
 
 public class MethodOverloading {
 	public static void main(String[] args) {
-		
+
 		int r1 = plus(1,  2);
 		int r2 = plus(1,  2, 3);
 		double r3 = plus(1.0, 2.1);
 		String r4 = plus("Hello", "World");
-		
+
 		System.out.println("r1 : "+r1);
 		System.out.println("r2 : "+r2);
 		System.out.println("r3 : "+r3);
 		System.out.println("r4 : "+r4);
-		
+
 	} //main end 
 	public static int plus(int a, int b) {
 		return  a+b;
