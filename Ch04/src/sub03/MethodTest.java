@@ -51,6 +51,7 @@ public class MethodTest {
 		int total = 0;
 		
 		for(int k=start; k<=end; k++)
+			
 			total += k;
 		
 		   return total;
