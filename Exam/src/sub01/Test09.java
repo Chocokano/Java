@@ -1,4 +1,4 @@
-package test1;
+package sub01;
 /*
  * 날짜 : 2022/08/19
  * 이름 : 최아영
