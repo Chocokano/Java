@@ -1,6 +1,5 @@
 package sub02;
 
-import javax.swing.plaf.basic.BasicBorders.FieldBorder;
 
 /*
  * 날짜 : 2022/08/26
