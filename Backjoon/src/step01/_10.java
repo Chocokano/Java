@@ -1,14 +1,26 @@
 package step01;
+
+import java.util.Scanner;
+
 /*
- * 날짜 : 2022/08/19
+ * 날짜 : 2022/08/26
  * 이름 : 최아영
- * 내용 : 1단계 10번 : Hello World
+ * 내용 : 1단계 10번 : 킹, 퀸, 룩, 비숍, 나이트, 
  */
 public class _10 {
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int a[] = new int[6];
+		int b[] = {1,1,2,2,2,8};
+		for(int i=0; i<a.length; i++) {
+			a[i]=sc.nextInt();
+		}
+		for(int i =0; i<a.length; i++) {
+			System.out.print(b[i]-a[i]+ " ");
+		}
 	}
-
 }
 
 

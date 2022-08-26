@@ -7,6 +7,7 @@ import java.util.Scanner;
  * 이름 : 최아영
  * 내용 : 1단계 11번 : 나머지
  */
+
 public class _11 {
 	public static void main(String[] args) {
 		
@@ -25,6 +26,4 @@ public class _11 {
 	}
 
 }
-
-
 
