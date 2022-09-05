@@ -4,8 +4,7 @@ package sub02;
  * 이름 : 최아영
  * 내용 : 예외던지기 실습하기
  */
- 
-public class TrowTest {
+public class ThrowTest {
 	public static void main(String[] args) {
 		
 		Calc cal = Calc.getInstance();
