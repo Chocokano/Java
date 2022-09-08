@@ -8,9 +8,8 @@ import java.util.regex.Pattern;
  * 이름 : 최아영
  * 내용 : 정규표현식 실습하기
  * 
- * 
  * 정규표현식(Regular Expression)
- * - 특정규칙을 가진 문자열 집합을 표현하기 위한 현식언어
+ * - 특정규칙을 가진 문자열 집합을 표현하기 위한 형식언어
  * - 문자열 패턴을 검사하거나 또는 문자열 치환에 많이 사용
  */
 public class RegularExpressTest {
